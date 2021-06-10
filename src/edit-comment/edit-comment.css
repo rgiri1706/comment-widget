@@ -1,0 +1,14 @@
+.input-style{
+    width: 37vw;
+    height: 6vh;
+    border-radius: 5px;
+    padding-left: 20px;
+}
+button {
+    height: 39px;
+    background-color: #0275d8;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 5px;
+}
